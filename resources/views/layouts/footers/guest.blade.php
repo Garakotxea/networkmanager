@@ -4,7 +4,7 @@
         <ul>
         </ul>
         </nav>
-        <div class="copyright float-right">
+        <div class="float-right">
         <script>
             document.write(new Date().getFullYear())
         </script> Mission2 - NetworkManager
